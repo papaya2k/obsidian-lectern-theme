@@ -2,7 +2,6 @@
   "name": "Lectern",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
-  "description": "Matches the default light and dark appearance of the Lectern markdown viewer: near-black/white chrome with a muted rainbow heading palette.",
   "author": "Papaya",
   "authorUrl": "",
   "fundingUrl": ""
