@@ -2,6 +2,8 @@
 
 A theme matching the default light and dark appearance of [Lectern](https://git.papayadev.net/pub/lectern), a Qt6 markdown viewer: near-black/white chrome with a muted rainbow heading palette (blue H1, purple H2, gold H3, green H4, terracotta H5, gray H6).
 
+![Screenshot](screenshot.png)
+
 ## Installation
 
 ### Manual
